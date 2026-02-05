@@ -1,9 +1,9 @@
 <?php
 
 /***************************************************************
- * Extension Manager/Repository config file for ext "ayacoo_soundcloud".
+ * Extension Manager/Repository config file for ext "cri_datawrapper".
  *
- * Auto generated 20-09-2023 14:48
+ * Auto generated 05.02.2026 13:48
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array (
   'description' => NULL,
   'category' => 'plugin',
   'version' => '1.0.0',
-  'state' => 'stable',
+  'state' => 'beta',
   'uploadfolder' => false,
   'clearcacheonload' => false,
   'author' => 'Christoph Runkel',
