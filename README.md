@@ -34,7 +34,7 @@ In order not to have to access the oEmbed interface permanently, four fields are
 
 ### 3.1 Versions and support
 
-| Cri_Datawrapper | TYPO3       | PHP       | Support / Development                   |
+| cri_datawrapper  | TYPO3       | PHP       | Support / Development                  |
 |------------------|------------| ----------|---------------------------------------- |
 | 1.x              | 12.x- 13.4 | > 8.0     | Initial, experimental release           |
 
@@ -45,3 +45,6 @@ requests. This is very helpful to understand what kind of issue the **PR** is go
 
 **Bugfixes**: Please describe what kind of bug your fix solve and give us feedback how to reproduce the issue. We're
 going to accept only bugfixes if we can reproduce the issue.
+
+**Thanks**: To the maker of ayacoo_soundcloud  - Guido Schmechel - your code has been a great template to build upon.
+
