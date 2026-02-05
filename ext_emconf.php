@@ -19,7 +19,7 @@ $EM_CONF[$_EXTKEY] = array (
   'uploadfolder' => false,
   'clearcacheonload' => false,
   'author' => 'Christoph Runkel',
-  'autoload' > [
+  'autoload' => [
         'psr-4'=> [ 'Cri\\CriDatawrapper\\' => 'Classes', ]
         
    ],
